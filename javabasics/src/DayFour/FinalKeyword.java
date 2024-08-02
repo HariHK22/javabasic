@@ -18,6 +18,7 @@ package DayFour;
 class AdvanceCalc extends calc{
 	public void show() {
 		System.out.println("It was an advance calculator BY YYY");
+		System.out.println("It was an constrcutor class");
 	}
 	
 }
